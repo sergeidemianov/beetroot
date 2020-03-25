@@ -1,0 +1,25 @@
+header {
+    background-color: #A52A2A;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+span.blue {
+    color: blue;
+}
+.cars {
+    text-align: center;
+
+}
+.foto {
+    border: 3px dashed black;
+}
+p {
+    font-size: 18px;
+}
